@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3da3e1cc6d589cf478585e8a7e5832e5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bed: {fileID: 6620178308390347659, guid: 9d1052522e435a641ae0fd863242fdea, type: 3}
+  - diagnosis: {fileID: 6997968935825064208, guid: 7e8725eb81957864aa875b05ae0122f7, type: 3}
+  - surgery: {fileID: 8585073205302211597, guid: 51571ccc92e35ce4489547ed11632f03, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

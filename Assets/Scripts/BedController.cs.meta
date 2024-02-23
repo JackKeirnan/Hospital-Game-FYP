@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: fb7e52bb64789734990fad64325c2857
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - patient: {fileID: 3886164462590753880, guid: f34a48e3486aae649b327977476b417b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
